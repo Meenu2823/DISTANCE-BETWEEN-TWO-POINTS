@@ -8,7 +8,8 @@ Start the program by importing math module for doing calculations using the buil
 ### Step 2: 
 Assign the 2 points as two lists
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.JPG)
+Substitute the values in the distance formula
+![formula](/formula.JPG)  
 ### Step 4: 
 Print the distance calculated using format() function
 ### Step 5:
